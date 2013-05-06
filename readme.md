@@ -6,5 +6,8 @@
 
 Checkout the repo and open index.html in a browser window. 
 
+or
+
+[click here](http://palaniraja.github.io/ipad-deck/)
 
 
